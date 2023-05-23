@@ -1,7 +1,7 @@
 # Datahub195_Portfolio
 Analytics Portfolio
 
-# [ROC Method for Identifying the Optimal Threshold With an Application to Email Classification](https://github.com/DataHub ElfbeeTay/ROCMethodForOptimalPerformanceInSpamClassification)
+# [ROC Method for Identifying the Optimal Threshold With an Application to Email Classification](https://github.com/DataHub-ElfbeeTay/ROCMethodForOptimalPerformanceInSpamClassification)
 
 This is a project i did for my undergraduate research paper, where I compare the performance of Naïve Bayes, KNN, SVM and Neural Network using ROC curve and other metrics such as Accuracy, F1, Precision, and Recall. And also to determine that the area under the ROC (Receiver Operating Characteristics) curve (AUC) provides a better measure than accuracy
 
